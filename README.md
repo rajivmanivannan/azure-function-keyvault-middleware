@@ -1,5 +1,5 @@
 # Azure Function Key Vault Middleware
-Azure Function to retrieve the secrets from Azure KeynVault  
+Azure Function to retrieve the secrets from Azure KeyVault  
 
 ### NuGet Packages Used
 Microsoft.NET.SdkFunctions(3.0.3)  
